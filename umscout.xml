@@ -3,18 +3,18 @@
     <channel>
         <title>UMscout | App Updates</title>
         <item>
-            <title>Version 2.0.2</title>
+            <title>Version 2.5.0</title>
             <description>Major Updates</description>
-            <pubDate>Thu, 23 Apr 2026 00:00:00 +0800</pubDate>
-            <enclosure url="https://play.google.com/store/apps/details?id=com.limziyang.spectrumscout" sparkle:version="2.0.2" sparkle:os="android" />
+            <pubDate>Sat,8 Aug 2026 00:00:00 +0800</pubDate>
+            <enclosure url="https://play.google.com/store/apps/details?id=com.limziyang.spectrumscout" sparkle:version="2.5.0" sparkle:os="android" />
         </item>
         <!-- iOS: uncomment, fill the App Store id, then add 'ios' to
              AppcastConfiguration.supportedOS in force_update.dart.
         <item>
-            <title>Version 2.0.2</title>
+            <title>Version 2.5.0</title>
             <description>Major Updates</description>
-            <pubDate>Thu, 23 Apr 2026 00:00:00 +0800</pubDate>
-            <enclosure url="https://apps.apple.com/app/id6698896813" sparkle:version="2.0.2" sparkle:os="ios" />
+            <pubDate>Sat,8 Aug 2026 00:00:00 +0800</pubDate>
+            <enclosure url="https://apps.apple.com/app/id6698896813" sparkle:version="2.5.0" sparkle:os="ios" />
         </item>
         -->
     </channel>
